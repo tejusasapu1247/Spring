@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<bean id="car" class="com.demo.Car" scope="prototype">
+<property name="pname" value="teju" ></property>
+<property name="engine" ref="e1"></property>
+<property name="tyre" ref="t1"></property>
+</bean>
+
+<bean id="car2" class="com.demo.Car" scope="prototype">
+<property name="pname" value="moksha" ></property>
+<property name="engine" ref="e1"></property>
+<property name="tyre" ref="t1"></property>
+</bean>
+
+	<bean id="e1" class="com.demo.TurboEngine" scope="prototype">
+		<property name="brand" value="tata"></property>
+		<property name="horsePower" value="3000"></property>
+	</bean>
+	
+	<bean id="t1" class="com.demo.MrfTyre" scope="prototype">
+	<property name="price" value="5000"></property>
+	</bean>
+
+</beans>
