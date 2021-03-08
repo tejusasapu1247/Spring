@@ -1,0 +1,47 @@
+class User{
+private Integer ;
+private String username;
+private String password;
+private List<String> roles;
+private String address;
+private String phone;
+private String email;
+}
+
+AcountType:CA,SA
+class Account{
+private Integer accountId;
+private String name;
+private String address;
+private String phone;
+private String email;
+private double balance;
+private string pan_number;
+private String Aadhar_number;
+
+private List<TransactionEntry> transactionEntry;
+}
+
+
+TransactionTye : WITHDRAW, DEPOSIT, TRANSFER
+class TransactionEntry{
+	private Integer txId;
+	private String txInfo;
+	private Date timeStamp;
+	private Double amount;
+	private String txnType;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

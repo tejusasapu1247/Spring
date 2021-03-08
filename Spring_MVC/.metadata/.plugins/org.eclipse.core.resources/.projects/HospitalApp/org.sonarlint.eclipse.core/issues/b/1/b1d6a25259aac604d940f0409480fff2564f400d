@@ -1,0 +1,26 @@
+
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãí‰Æşÿÿÿÿ8È¶â.HXRMINORZ
+CODE_SMELL
+ƒ
+java:S3252("HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(—â’Òşÿÿÿÿ8È¶â.H•XRCRITICALZ
+CODE_SMELL
+ˆ	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¢ˆşÿÿÿÿ8È¶â.H‘XRMINORZ
+CODE_SMELL
+r
+java:S1161<":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿ8Îâ.HàWRMAJORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¦Ï¤ùÿÿÿÿ8È¶â.HXRMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß Äñüÿÿÿÿ8È¶â.HXRMINORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëè¨½8È¶â.HXRMINORZ
+CODE_SMELL
+m
+java:S1161":Add the "@Override" annotation above this method signature(÷¤‹ú8Îâ.HáWRMAJORZ
+CODE_SMELL
+ˆ	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒØ“µùÿÿÿÿ8È¶â.H’XRMINORZ
+CODE_SMELL
+ˆ	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÀ½ïıÿÿÿÿ8È¶â.H“XRMINORZ
+CODE_SMELL
+—
+java:S19898"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ãìÄ8È¶â.H˜XRMINORZVULNERABILITY

@@ -4,7 +4,6 @@ public class Account {
  private int id;
  private String name;
  private int balance;
- 
  public Account() {}
 public Account(int id, String name, int balance) {
 	super();
@@ -34,5 +33,4 @@ public void setBalance(int balance) {
 public String toString() {
 	return "Account [id=" + id + ", name=" + name + ", balance=" + balance + "]";
 }
- 
 }

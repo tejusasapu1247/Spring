@@ -1,0 +1,40 @@
+
+s
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿHÃGRBLOCKERZBUG
+{
+java:S20954"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(°ôš³üÿÿÿÿHÄGRBLOCKERZBUG
+|
+java:S2095”"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.( îÇ”úÿÿÿÿHÅGRBLOCKERZBUG
+v
+java:S2095|"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Õ®€HÆGRBLOCKERZBUG
+{
+java:S2095g"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¤¦öùÿÿÿÿHÇGRBLOCKERZBUG
+{
+java:S2095T"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(üÍÈÿüÿÿÿÿHÈGRBLOCKERZBUG
+v
+java:S1192""HDefine a constant instead of duplicating this literal "pubDate" 3 times.(Áñ¶gHÉGRCRITICALZ
+CODE_SMELL
+z
+java:S1192!"FDefine a constant instead of duplicating this literal "title" 3 times.(ŸÄ€†ûÿÿÿÿHÍGRCRITICALZ
+CODE_SMELL
+u
+java:S1192""GDefine a constant instead of duplicating this literal "author" 3 times.(Áñ¶gHÑGRCRITICALZ
+CODE_SMELL
+t
+java:S1192""FDefine a constant instead of duplicating this literal "price" 3 times.(Áñ¶gHÕGRCRITICALZ
+CODE_SMELL
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡šÎHÙGRMINORZ
+CODE_SMELL
+	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÇæùÿÿÿÿHÚGRMINORZ
+CODE_SMELL
+|	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÑõHÛGRMINORZ
+CODE_SMELL
+	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆâÑüÿÿÿÿHÜGRMINORZ
+CODE_SMELL
+|	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á³ßŒHİGRMINORZ
+CODE_SMELL
+}	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïğë²HŞGRMINORZ
+CODE_SMELL
+a
+java:S1481j"5Remove this unused "noOfRowsEffected" local variable.(›ß³‡HßGRMINORZ
+CODE_SMELL

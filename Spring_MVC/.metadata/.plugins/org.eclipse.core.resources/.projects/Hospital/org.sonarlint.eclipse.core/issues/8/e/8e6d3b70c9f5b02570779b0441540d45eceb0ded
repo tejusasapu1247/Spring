@@ -1,0 +1,8 @@
+
+VWeb:BoldAndItalicTagsCheck8"!Replace this <b> tag by <strong>.(ş˜ ¶HÁLRMINORZBUG
+rWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷ÃûÿÿÿÿHÅLRMAJORZBUG
+i	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿHÃLRMAJORZBUG
+cWeb:UnsupportedTagsInHtml5Check8")Remove this deprecated "marquee" element.(ş˜ ¶HÇLRMAJORZBUG
+[Web:BoldAndItalicTagsCheck7"!Replace this <b> tag by <strong>.(”¶çÔıÿÿÿÿHÂLRMINORZBUG
+VWeb:BoldAndItalicTagsCheck6"!Replace this <b> tag by <strong>.(œ›¤ÃHÄLRMINORZBUG
+RWeb:BoldAndItalicTagsCheck5"Replace this <i> tag by <em>.(§ÑÓÛHÆLRMINORZBUG

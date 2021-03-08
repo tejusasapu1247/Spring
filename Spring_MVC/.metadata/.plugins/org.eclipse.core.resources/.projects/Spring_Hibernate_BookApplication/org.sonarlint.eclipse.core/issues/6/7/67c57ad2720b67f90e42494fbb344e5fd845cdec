@@ -1,0 +1,8 @@
+
+
+java:S1192"SDefine a constant instead of duplicating this literal "redirect:/allbooks" 3 times.(¹€¸÷ÿÿÿÿÿ8Ñü£á.HcRCRITICALZ
+CODE_SMELL
+i	java:S106""9Replace this use of System.out or System.err by a logger.(Ï³ÀûÿÿÿÿH”cRMAJORZ
+CODE_SMELL
+y
+java:S4684<"@Replace this persistent entity with a simple POJO or DTO object.(´ãûã8ûÜœ£á.H•cRCRITICALZVULNERABILITY

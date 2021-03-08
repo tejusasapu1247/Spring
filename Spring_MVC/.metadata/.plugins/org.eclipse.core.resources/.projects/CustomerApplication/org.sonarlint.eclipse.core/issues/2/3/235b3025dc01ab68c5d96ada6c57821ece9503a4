@@ -1,0 +1,11 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’§ÓºÿÿÿÿÿH‚.RMINORZ
+CODE_SMELL
+h
+java:S1128"7Remove this unused import 'javax.persistence.Temporal'.(…ò­“üÿÿÿÿHƒ.RMINORZ
+CODE_SMELL
+l
+java:S1128	";Remove this unused import 'javax.persistence.TemporalType'.(×ÓÛøÿÿÿÿH„.RMINORZ
+CODE_SMELL
+‚	java:S116"RRename this field "Company" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úƒ†‚ıÿÿÿÿH….RMINORZ
+CODE_SMELL

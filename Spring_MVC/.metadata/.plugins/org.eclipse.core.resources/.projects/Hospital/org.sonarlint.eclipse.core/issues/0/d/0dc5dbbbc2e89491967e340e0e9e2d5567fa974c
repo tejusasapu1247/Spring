@@ -1,0 +1,14 @@
+
+s
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿH‚IRBLOCKERZBUG
+g	java:S125"<This block of commented-out lines of code should be removed.(åàÏ½H…IRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿH†IRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÊßÉ°ùÿÿÿÿH„IRMAJORZ
+CODE_SMELL
+l
+java:S1118	":Add a private constructor to hide the implicit public one.(Ô\8ÉÛ´ıá.HóIRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ı™ÈÙûÿÿÿÿ8ÉÛ´ıá.HôIRMAJORZ
+CODE_SMELL

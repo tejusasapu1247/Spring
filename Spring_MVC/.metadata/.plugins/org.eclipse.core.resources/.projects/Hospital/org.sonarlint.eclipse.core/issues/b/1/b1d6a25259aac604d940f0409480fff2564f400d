@@ -1,0 +1,36 @@
+
+|	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïî¶«HéWRMINORZ
+CODE_SMELL
+—
+java:S1989Q"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ãìÄ8×äñıá.HÿWRMINORZVULNERABILITY
+f
+java:S1161Z":Add the "@Override" annotation above this method signature(‹¨¯¿HêWRMAJORZ
+CODE_SMELL
+	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãí‰ÆşÿÿÿÿHñWRMINORZ
+CODE_SMELL
+‘
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì¾ùƒùÿÿÿÿ8ø–±â.H‚XRMINORZ
+CODE_SMELL
+k
+java:S1161$":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿHXRMAJORZ
+CODE_SMELL
+y
+java:S1858&"F"getParameter" returns a string, there's no need to call "toString()".(Ïî¶«8…ŞûŠâ.HıWRMINORZ
+CODE_SMELL
+	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÀ½ïıÿÿÿÿHşWRMINORZ
+CODE_SMELL
+k	java:S106M"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8şÓ‹â.HåWRMAJORZ
+CODE_SMELL
+	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒØ“µùÿÿÿÿH€XRMINORZ
+CODE_SMELL
+|	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëè¨½HúWRMINORZ
+CODE_SMELL
+|
+java:S32522"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(ßÆÅÁúÿÿÿÿHäWRCRITICALZ
+CODE_SMELL
+	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¢ˆşÿÿÿÿHûWRMINORZ
+CODE_SMELL
+	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß ÄñüÿÿÿÿHüWRMINORZ
+CODE_SMELL
+“
+java:S1989\"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Ó‘ûÿÿÿÿÿHòWRMINORZVULNERABILITY

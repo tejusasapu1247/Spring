@@ -12,24 +12,21 @@
 				<ref bean="account3" />
 			</list>
 		</property>
-	</bean >
-	
+	</bean>
 	<bean id="account1" class="Account">
-	<property name="balance" value="1000"></property>
-	<property name="id" value="1"></property>
-	<property name="name" value="teju"></property>
+		<property name="balance" value="1000"></property>
+		<property name="id" value="1"></property>
+		<property name="name" value="teju"></property>
 	</bean>
-	
-
 	<bean id="account2" class="Account">
-	<property name="balance" value="2000"></property>
-	<property name="id" value="2"></property>
-	<property name="name" value="moksha"></property>
+		<property name="balance" value="2000"></property>
+		<property name="id" value="2"></property>
+		<property name="name" value="moksha"></property>
 	</bean>
-	
+
 	<bean id="account3" class="Account">
-	<property name="balance" value="3000"></property>
-	<property name="id" value="3"></property>
-	<property name="name" value="pooja"></property>
+		<property name="balance" value="3000"></property>
+		<property name="id" value="3"></property>
+		<property name="name" value="pooja"></property>
 	</bean>
 </beans>

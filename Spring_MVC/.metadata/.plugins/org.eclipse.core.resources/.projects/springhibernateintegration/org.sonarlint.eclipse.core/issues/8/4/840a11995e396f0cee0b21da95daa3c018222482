@@ -1,0 +1,11 @@
+
+i
+java:S1128"=Remove this unused import 'org.hibernate.HibernateException'.(™òý²Hþ>RMINORZ
+CODE_SMELL
+y
+java:S1128
+"HRemove this unused import 'org.springframework.dao.DataAccessException'.(·È³÷ûÿÿÿÿHÿ>RMINORZ
+CODE_SMELL
+b
+java:S1128"6Remove this unused import 'org.hibernate.Transaction'.(ìÌè³H€?RMINORZ
+CODE_SMELL

@@ -1,0 +1,14 @@
+
+k
+java:S1161":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿH¨XRMAJORZ
+CODE_SMELL
+
+java:S1989)"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ãìÄH©XRMINORZVULNERABILITY
+f
+java:S1161;":Add the "@Override" annotation above this method signature(‹¨¯¿HªXRMAJORZ
+CODE_SMELL
+	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷æçäÿÿÿÿÿH«XRMINORZ
+CODE_SMELL
+w
+java:S21471"DCombine this catch with the one at line 47, which has the same body.(É®£8¹İ½â.H¬XRMINORZ
+CODE_SMELL

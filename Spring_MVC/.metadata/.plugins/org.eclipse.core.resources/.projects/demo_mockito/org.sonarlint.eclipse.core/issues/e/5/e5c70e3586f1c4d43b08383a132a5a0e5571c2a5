@@ -1,0 +1,6 @@
+
+^
+java:S1168	"+Return an empty collection instead of null.(¥Ήο8‘ξ“Γα.HΥ2RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(αΖ€ªψÿÿÿÿ8Αρ”Γα.HΧ2RMAJORZ
+CODE_SMELL

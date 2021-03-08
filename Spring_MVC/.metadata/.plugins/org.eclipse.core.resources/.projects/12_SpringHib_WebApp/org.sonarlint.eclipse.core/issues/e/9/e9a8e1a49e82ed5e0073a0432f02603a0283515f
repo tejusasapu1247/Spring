@@ -1,0 +1,10 @@
+
+r
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(ûµŠÍH¦hRCRITICALZVULNERABILITY
+r
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(üˆ©°H¥hRCRITICALZVULNERABILITY
+g
+java:S2441>"=Make "Account" serializable or don't store it in the session.(œ¼ûÿÿÿÿH§hRMAJORZBUG
+|
+java:S1192$"HDefine a constant instead of duplicating this literal "account" 3 times.(à­º¶ûÿÿÿÿH¡hRCRITICALZ
+CODE_SMELL

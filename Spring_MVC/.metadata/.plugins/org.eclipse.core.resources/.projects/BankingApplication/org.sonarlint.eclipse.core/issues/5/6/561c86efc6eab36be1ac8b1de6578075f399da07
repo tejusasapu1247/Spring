@@ -1,0 +1,10 @@
+
+o	java:S125C"<This block of commented-out lines of code should be removed.(£’8ÛÇ˜ââ.H–†RMAJORZ
+CODE_SMELL
+o	java:S125-"<This block of commented-out lines of code should be removed.(£’8ÏÔ™ââ.H™†RMAJORZ
+CODE_SMELL
+„	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ø»¼8£ô§Ãâ.Hœ†RMINORZ
+CODE_SMELL
+`
+java:S14810"'Remove this unused "id" local variable.(ÆÉúÿÿÿÿ8ğòôÁâ.H†RMINORZ
+CODE_SMELL

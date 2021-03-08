@@ -1,0 +1,32 @@
+
+ê
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(„ÏƒÅH…NRMINORZVULNERABILITY
+d	java:S106"9Replace this use of System.out or System.err by a logger.(î÷†øH NRMAJORZ
+CODE_SMELL
+á
+java:S1989#"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ò¥å=HÀNRMINORZVULNERABILITY
+ï
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(≠Ñ´ç¯ˇˇˇˇHÃNRMINORZVULNERABILITY
+á
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ò¥å=HÕNRMINORZVULNERABILITY
+l	java:S125;"<This block of commented-out lines of code should be removed.(ÌÎ”è˙ˇˇˇˇHŒNRMAJORZ
+CODE_SMELL
+à
+java:S1989,"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ªÆêÁHœNRMINORZVULNERABILITY
+Ç
+java:S1989A"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ƒæ«ﬂH–NRMINORZVULNERABILITY
+ã
+java:S19899"\Handle the following exception that could be thrown by "parseDouble": NumberFormatException.(Ã∞ñöH—NRMINORZVULNERABILITY
+ê
+java:S1989'"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ê¢Ç„H“NRMINORZVULNERABILITY
+k
+java:S1161":Add the "@Override" annotation above this method signature(œ˚©÷˚ˇˇˇˇH”NRMAJORZ
+CODE_SMELL
+á
+java:S1989!"SHandle the following exception that could be thrown by "sendRedirect": IOException.(À¨ÑÛ˙ˇˇˇˇH‘NRMINORZVULNERABILITY
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(êª´≈˚ˇˇˇˇH’NRMAJORZ
+CODE_SMELL
+c	java:S106-"9Replace this use of System.out or System.err by a logger.(≈—ãFH÷NRMAJORZ
+CODE_SMELL
+}
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(⁄œŸÄH◊NRMAJORZBUG

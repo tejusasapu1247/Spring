@@ -8,7 +8,6 @@ import com.bankapp.service.AccountService;
 public class Main {
 
 	public static void main(String[] args) {
-		//ApplicationContext cnt= new ClassPathXmlApplicationContext("bean.xml");
 		AbstractApplicationContext cnt= new ClassPathXmlApplicationContext("bean.xml");
 		AccountService as=(AccountService) cnt.getBean("accountService");
 		System.out.println("....getting all accounts...");

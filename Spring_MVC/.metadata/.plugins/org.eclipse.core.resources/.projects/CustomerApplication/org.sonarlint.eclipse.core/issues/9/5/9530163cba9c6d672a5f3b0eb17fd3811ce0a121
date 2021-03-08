@@ -1,0 +1,6 @@
+
+’
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "customers".(Èùæ˜ûÿÿÿÿHº.RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬ê·şÿÿÿÿH».RMINORZ
+CODE_SMELL

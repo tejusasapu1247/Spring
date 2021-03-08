@@ -1,0 +1,11 @@
+
+|	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ñ›»HÖeRMINORZ
+CODE_SMELL
+|	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø—ıêHÜeRMINORZ
+CODE_SMELL
+`
+java:S1481J"4Remove this unused "bookToBeDeleted" local variable.(◊°˝ÔHáeRMINORZ
+CODE_SMELL
+]
+java:S1481Z"1Remove this unused "bookToUpdate" local variable.(—ƒ∫çHàeRMINORZ
+CODE_SMELL

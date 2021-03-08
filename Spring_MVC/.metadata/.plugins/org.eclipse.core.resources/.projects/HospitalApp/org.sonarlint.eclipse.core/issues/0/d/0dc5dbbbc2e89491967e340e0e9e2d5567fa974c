@@ -1,0 +1,16 @@
+
+^
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH¦YRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿH«YRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ý™ÈÙûÿÿÿÿ8õ£€â.H§YRMAJORZ
+CODE_SMELL
+l
+java:S1118	":Add a private constructor to hide the implicit public one.(žÔ\8õ£€â.H¬YRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(¦áëÇùÿÿÿÿ8š·ìâ.H³YRMAJORZ
+CODE_SMELL
+Y
+java:S1481"'Remove this unused "rs" local variable.(˜âA8š·ìâ.H¶YRMINORZ
+CODE_SMELL
